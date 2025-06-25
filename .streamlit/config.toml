@@ -1,0 +1,16 @@
+[theme]
+# botões, links, etc.
+primaryColor="#FF4B4B"
+# Cor de fundo da aplicação.
+backgroundColor="#0E1117"
+# Cor de fundo para componentes secundários (sidebar, caixas de seleção, etc.).
+secondaryBackgroundColor="#262730" # Um cinza um pouco mais claro que o background, para contraste sutil
+# Cor do texto principal.
+textColor="#FAFAFA"
+font="sans serif"
+
+# [server] ( útil, cado eu precise de portas específicas ou outras configurações do servidor)
+# port = 8501 # Porta padrão do Streamlit --> mudar se precisar de outra.
+# enableCORS = true # Habilita o CORS, importante para certas integrações.
+# enableXsrfProtection = true # Proteção contra XSRF.
+# maxUploadSize = 200
