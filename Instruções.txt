@@ -1,0 +1,2 @@
+Para rodar o streamlit, execute o seguinte comando no terminal:
+streamlit run src/app.py
